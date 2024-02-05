@@ -20,8 +20,8 @@ fatal ratio digunakan untuk menentukan tingkat resiko penyebaran covid-19 disuat
 untuk menampilkan kasus yang terjadi di asean, kita perlu menyaring data yang ada. ini akan mudah jika kita menyaring menggunakan kode negara (geo_id) dengan hanya mengambil geo_id asean.
 
 # visualisasi
-![](dunia/dunia.png)
-![](asean/asean.png)
+![Grafik_dunia](dunia/Grafik_dunia.png)
+![Grafik_kasus_asean](asean/Grafik_kasus_asean.png)
 
 
 
